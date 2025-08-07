@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Conseguimos estudar hoje, estou muito orgulhoso de nós!!!</h1>
+    return <h1>Titulo provisorio para desafio no curso</h1>
 }
 
 export default Home;
